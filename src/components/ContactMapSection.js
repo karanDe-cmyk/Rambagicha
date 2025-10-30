@@ -8,8 +8,8 @@ import Email from "../images/542740.png"
 function ContactMapSection() {
   // Use a simplified email address since the original used Cloudflare protection
   const emailAddress = "contact@rambagichaguesthousetirumala.com";
-  const phoneNumber = "+91 7878033812";
-  const whatsappNumber = "7878033812";
+  const phoneNumber = "+91 8739943076";
+  const whatsappNumber = "8739943076";
   const address = "Sannidhi St, Tirumala, Tirupati, Andhra Pradesh 517504";
   
   return (

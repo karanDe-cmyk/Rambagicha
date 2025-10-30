@@ -10,7 +10,7 @@ function RoomsSection() {
     { name: 'Family Stay', image: Family },
   ];
   
-  const whatsappNumber = "7878033812"; // Your WhatsApp number
+  const whatsappNumber = "8739943076"; // Your WhatsApp number
 
   return (
     <section className="u-align-center u-clearfix u-container-align-center u-palette-1-base u-section-5" id="carousel_1c8b">

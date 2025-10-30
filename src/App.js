@@ -51,7 +51,7 @@ function App() {
                       breathtaking landscapes of Andhra Pradesh, with our guest house serving as the perfect base for your
                       adventures. Whether you seek a peaceful getaway or an exciting exploration, Ram Bagicha Guest House
                       promises a memorable stay. Book your stay today and discover the magic of Andhra Pradesh. </p>
-                    <a href="tel:07878033812"
+                    <a href="tel:08739943076"
                       className="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-btn u-btn-round u-button-style u-hover-palette-1-light-1 u-palette-1-base u-radius u-btn-1">book
                       now </a>
                   </div>

@@ -4,8 +4,8 @@ import Whatsapp from "../images/external-whatsapp-social-media-justicon-flat-jus
 import Email from "../images/apple-mail.png"
 
 function FixedContactButtons() {
-  const phoneNumber = "07878033812";
-  const whatsappNumber = "+917878033812";
+  const phoneNumber = "08739943076";
+  const whatsappNumber = "+918739943076";
   const emailAddress = "contact@rambagichaguesthousetirumala.com";
 
   return (

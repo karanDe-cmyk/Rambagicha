@@ -17,7 +17,7 @@ function HeroSection() {
             <h2 className="u-align-center u-custom-font u-text u-text-2"> Ram Bagicha Guest House</h2>
             
             {/* Call Now Button */}
-            <a href="tel:07878033812"
+            <a href="tel:08739943076"
               className="u-border-none u-btn u-btn-round u-button-style u-hover-palette-1-light-2 u-palette-1-base u-radius u-btn-1">
               <span className="u-icon">
                 {/* SVG for Phone Icon - Converted to React JSX */}
@@ -28,7 +28,7 @@ function HeroSection() {
             </a>
             
             {/* WhatsApp Now Button */}
-            <a href="https://wa.me/+917878033812"
+            <a href="https://wa.me/+918739943076"
               className="u-border-none u-btn u-btn-round u-button-style u-hover-palette-1-light-2 u-palette-1-base u-radius u-btn-2">
               <span className="u-file-icon u-icon u-text-white">
                 {/* Image tag for WhatsApp icon - Adjust src path */}
